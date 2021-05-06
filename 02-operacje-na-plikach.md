@@ -26,3 +26,4 @@ Tip. Użyj `ls -l` aby to sprawdzić.
 Odkryj co zrobi `mkdir` jeśli podany katalog już istnieje.
 Hello file
 Zmiany w pliku z echo
+zmiana z feature w pliku 2
