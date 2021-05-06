@@ -25,3 +25,4 @@
 *  względne - względem aktualnego katalogu (`pwd`)
 
 Hello
+zmiana z master branch w pliku 1
