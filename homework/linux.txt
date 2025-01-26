@@ -33,3 +33,4 @@ krzysiek@krzysiek:~/Pulpit$ cat data/selected.txt data/commands.txt
   775  wc -l data/processes.txt >> data/selected.txt
   776  grep -n '/bin' data/processes.txt >> data/selected.txt 
   777  history | tail -n11 > commands.txt
+  778  history | tail -n11 > commands.txt
