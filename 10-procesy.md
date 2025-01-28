@@ -26,3 +26,4 @@
 * `fg 2` - przywrócenie "zminimalizowanego" programu o numerze 2 do danego okna konsoli.
 * `jobs` - wyświetla "zminimalizowane" aplikacje wraz z ich numerami.
 * `app &` - uruchomienie programu app w formie "zminimalizowanej", aby nie blokować konsoli
+new changes

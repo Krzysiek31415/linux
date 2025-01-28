@@ -11,3 +11,4 @@
 * `|` - tzw. pipe, przekazanie wyjścia stdout jednego programu jako wejścia stdin drugiego. 
 * `2> /dev/null` - przekierowanie standardowego wyjścia błędów (stderr) do pliku /dev/null. W efekcie błędy nie wyświetlają się w terminalu.
 * `&> file` - przekierowanie zarówno stdout i stderr do file
+nowy tekst
