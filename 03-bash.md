@@ -12,3 +12,4 @@
 * Ctrl + R - szukaj w historii wpisanych komend
 
 tekst 1
+kfkfkfk
