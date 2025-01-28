@@ -12,3 +12,5 @@
 
 Zrób takiego grepa w jakimś projekcie
 `grep -rni dupa *`
+tekst 1
+do lekcji 8
