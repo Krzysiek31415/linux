@@ -24,4 +24,3 @@ Znajdź, gdzie w systemie plików leży kompilator g++ lub clang++, w zależnoś
 Obejrzenie lekcji o przekierowaniach może Ci ułatwić odnalezienie właściwego pliku.
 konflikt galaz main
 konflikt galaz feature
-
